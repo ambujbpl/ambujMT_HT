@@ -1,0 +1,4 @@
+1) Go to api folder.
+2) Inject node dependency by using command :- npm install
+3) Run the server by using command :- npm start
+4) Browse Application on : http://localhost:3000
